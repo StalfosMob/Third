@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap");
+body {
+  background-image: url(assets/communist.png);
+  font-weight: lighter;
+  color: gainsboro;
+  font-family: "Merriweather", serif;
+  font-size: 75px;
+}
+.poo {
+  width: 1575px;
+
+  border: 15px solid green;
+  background-color: black;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 360px;
+}
