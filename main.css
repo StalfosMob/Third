@@ -1,15 +1,30 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap");
 body {
-  background-image: url(assets/communist.png);
+  background-image: url(assets/rick.jpg);
   font-weight: lighter;
   color: gainsboro;
   font-family: "Merriweather", serif;
-  font-size: 75px;
+  font-size: 30px;
 }
-.poo {
-  width: 1575px;
-
-  border: 15px solid green;
+.why {
+  width: 400px;
+  border: 15px solid rgb(146, 79, 255);
+  background-color: black;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 60px;
+}
+.what {
+  width: 550px;
+  border: 35px groove rgb(146, 79, 255);
+  background-color: black;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 180px;
+}
+.title {
+  width: 1600px;
+  border: 25px ridge red;
   background-color: black;
   padding: 50px;
   margin: 20px;
